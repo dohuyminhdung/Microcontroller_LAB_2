@@ -1,0 +1,8 @@
+ex9.c:7:6:displayMatrixRow	16	static
+ex9.c:18:6:updateLEDMatrix	16	static
+ex9.c:116:6:setTimer9	16	static
+ex9.c:120:6:timerRun9	4	static
+ex9.c:126:6:setTimer10	16	static
+ex9.c:130:6:timerRun10	4	static
+ex9.c:137:6:ex9	8	static
+ex9.c:144:6:ex10	16	static

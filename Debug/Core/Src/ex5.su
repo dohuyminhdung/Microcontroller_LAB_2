@@ -1,0 +1,10 @@
+ex5.c:4:6:updateClockBuffer	4	static
+ex5.c:11:6:update7SEG_2	16	static
+ex5.c:49:6:ex5	8	static
+ex5.c:77:6:setTimer7_1	16	static
+ex5.c:81:6:setTimer7_2	16	static
+ex5.c:85:6:setTimer7_3	16	static
+ex5.c:89:6:timerRun7_1	4	static
+ex5.c:95:6:timerRun7_2	4	static
+ex5.c:101:6:timerRun7_3	4	static
+ex5.c:107:6:ex7	8	static
