@@ -1,0 +1,5 @@
+ex2.c:8:6:setTimer2_1	0	static
+ex2.c:12:6:setTimer2_2	0	static
+ex2.c:16:6:timerRun2_1	0	static
+ex2.c:24:6:timerRun2_2	0	static
+ex2.c:35:6:ex2	8	static

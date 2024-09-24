@@ -1,0 +1,3 @@
+ex1.c:6:6:setTimer1	0	static
+ex1.c:11:6:timerRun1	0	static
+ex1.c:21:6:ex1	16	static
